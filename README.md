@@ -1,4 +1,4 @@
-# Carbon Emissions Impact
+# 🌁 Carbon Emissions Impact
 
 ## Overview
 
